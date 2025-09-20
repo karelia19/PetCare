@@ -1,0 +1,29 @@
+$color-primary: #007bff;
+$color-secondary: #6c757d;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+header {
+  background-color: $color-primary;
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+#mascotaImg {
+  border: 5px solid $color-secondary;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: white;
+}
+
+table {
+  background-color: white;
+  th {
+    background-color: $color-primary;
+    color: white;
+  }
+}
