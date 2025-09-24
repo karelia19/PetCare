@@ -1,8 +1,8 @@
 Integrantes
-• Karelia Angela Ancori Chambi
-• Daniel Felix Mansilla Tito
-• Renzo Leonel Zegarra Mamani
-• Rodrigo Daniel Zuñiga Quiroz
+- Ancori Chambi Karelia Angela
+- Mansilla Tito Daniel Felix
+- Zegarra Mamani Renzo Leonel
+- Zuñiga Quiroz Rodrigo Daniel
 
 Descripción de la temática:
 Este proyecto es una página web interactiva que permite al usuario crear y cuidar una mascota virtual. La temática gira en torno al cuidado de una mascota, donde el usuario podrá interactuar con ella realizando actividades que afectan su bienestar, como alimentar, jugar o dormir.
